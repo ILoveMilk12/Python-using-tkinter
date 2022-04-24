@@ -1,5 +1,3 @@
-from cgitb import text
-from distutils.log import Log, error
 from tkinter import *
 
 # Window
